@@ -1,0 +1,7 @@
+Full dataset : https://www.kaggle.com/datasets/kmader/food41
+
+Custom Dataset : https://drive.google.com/file/d/1orbLRVxIO_N4D6l8a4oPydcHCZ3L6Jy3/view?usp=sharing
+
+Dataset Pembakaran Kalori : https://www.kaggle.com/datasets/aadhavvignesh/calories-burned-during-exercise-and-activities
+
+
